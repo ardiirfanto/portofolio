@@ -1,2 +1,2 @@
-# Ardi Irfanto Portofolio
-This Project is My Portofolio
+# Ardi Irfanto
+This Project is Open Source you can Download it.
