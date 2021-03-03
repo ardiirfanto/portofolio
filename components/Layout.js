@@ -70,9 +70,18 @@ function Layout(props) {
                         </ul>
                         <div className="py-4">
                             <hr />
-                            <div className="py-4 flex object-none object-bottom">
+                            <div className="py-4 px-5 flex justify-between ">
                                 <a href="" target="_blank">
-                                    <Image src={'/assets/img/fb.png'} width={40} height={40} />
+                                    <Image src={'/assets/img/fb.png'} width={30} height={30} />
+                                </a>
+                                <a href="" target="_blank">
+                                    <Image src={'/assets/img/ig.png'} width={33} height={33} />
+                                </a>
+                                <a href="" target="_blank">
+                                    <Image src={'/assets/img/in.png'} width={30} height={30} />
+                                </a>
+                                <a href="" target="_blank">
+                                    <Image src={'/assets/img/github.png'} width={30} height={30} />
                                 </a>
                             </div>
                         </div>
